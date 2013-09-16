@@ -1,4 +1,5 @@
 ImagePaster
 ===========
 
-Generates HTML code for image url
+Generates __HTML__ code for image url.
+
